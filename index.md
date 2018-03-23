@@ -1,5 +1,10 @@
 # Rebiekong的小玩意儿
 
+## 普通的项目
+
+1. [阿里云函数计算适配器](https://github.com/alifc-wp)
+2. [SpringCloud's PlayGround](https://github.com/spring-cloud-fast-learning)
+
 ## 大数据脚手架
 
 1. [real-time-datasource](https://rebiekong.github.io/real-time-datasource):实时数据源导入平台
