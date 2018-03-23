@@ -2,8 +2,8 @@
 
 ## 大数据脚手架
 
-1. [real-time-datasource](https://rebiekong.github.io/real-time-datasource/):实时数据源导入平台
-2. [detail-log-viewer](https://rebiekong.github.io/detail-log-viewer/):用户流水日志 批量/实时 导入及查询系统
+1. [real-time-datasource](https://rebiekong.github.io/real-time-datasource):实时数据源导入平台
+2. [detail-log-viewer](https://rebiekong.github.io/detail-log-viewer):用户流水日志 批量/实时 导入及查询系统
 
 ## 一些小代码片片
 1. [maven打包时依赖包的处理方法](https://gist.github.com/RebieKong/9ef087decd93a2ab0cb048fdf952f740)
@@ -15,4 +15,4 @@
 
 ## 文字类的奇怪东西
 1. [Rebiekong的博客](https://blog.rebiekong.com)
-2. [DataTalk](https://data-talk.rebiekong.com/)：与朋友一起组建的一个分享会
+2. [DataTalk](https://data-talk.rebiekong.com)：与朋友一起组建的一个分享会
