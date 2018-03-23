@@ -20,4 +20,5 @@
 
 ## 文字类的奇怪东西
 1. [Rebiekong的博客](https://blog.rebiekong.com)
-2. [DataTalk](https://data-talk.rebiekong.com)：与朋友一起组建的一个分享会
+2. [读书记录](https://rebiekong.github.io/KeepReading)
+3. [DataTalk](https://data-talk.rebiekong.com)：与朋友一起组建的一个分享会
