@@ -3,12 +3,11 @@
 ## 普通的项目
 
 1. [阿里云函数计算适配器](https://github.com/alifc-wp)
-2. [SpringCloud's PlayGround](https://github.com/spring-cloud-fast-learning)
 
-## 大数据脚手架
-
-1. [real-time-datasource](https://rebiekong.github.io/real-time-datasource):实时数据源导入平台
-2. [detail-log-viewer](https://rebiekong.github.io/detail-log-viewer):用户流水日志 批量/实时 导入及查询系统
+## 大数据工具箱 
+0. [项目集](https://github.com/rebie-bigdata)
+1. [real-time-datasource:实时数据源导入平台](https://rebie-bigdata.github.io/detail-log-viewer)
+2. [detail-log-viewer:用户流水日志 批量/实时 导入及查询系统](https://rebie-bigdata.github.io/detail-log-viewer)
 
 ## 代码片片
 1. [maven打包时依赖包的处理方法](https://gist.github.com/RebieKong/9ef087decd93a2ab0cb048fdf952f740)
