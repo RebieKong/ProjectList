@@ -9,7 +9,6 @@
 1. [real-time-datasource:实时数据源导入平台](https://rebie-bigdata.github.io/detail-log-viewer)
 2. [detail-log-viewer:用户流水日志 批量/实时 导入及查询系统](https://rebie-bigdata.github.io/detail-log-viewer)
 3. [dimension-builder:解决多维查询时的描述问题](https://github.com/rebie-bigdata/dimension-builder)
-4. [es-sql:将es查询简单封装成类sql操作](https://github.com/rebie-bigdata/es-sql)
 
 ## 代码片片
 1. [maven打包时依赖包的处理方法](https://gist.github.com/RebieKong/9ef087decd93a2ab0cb048fdf952f740)
